@@ -17,8 +17,9 @@ getwd()
 #The problem: currently, the [official maps](https://utahfireinfo.gov/active-wildfires/) of
 #active wildfires and projects in Utah leave to be desired. All wildfire, whether 1 acre or
 #1000, have the same visual representation on the map — a fire icon. For fires that are no
-#longer active (100% containment), the icon is converted to grayscale. Additionally, in order to find the percent containment, you need to click on the icon. At a glance, there's not much information about the individual fires.
-#I think we can do better.
+#longer active (100% containment), the icon is converted to grayscale. Additionally, in order
+#to find the percent containment, you need to click on the icon. At a glance, there's not
+#much information about the individual fires. I think we can do better.
 
 #```{r, out.width="400px", echo = FALSE}
 #knitr::include_graphics("/Users/brenna/Documents/School/GEOG 6000/wildfire map.png")
