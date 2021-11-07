@@ -1,2 +1,2 @@
-# repo_r
+# fun_r
 Things I'm learning with R.
